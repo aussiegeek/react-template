@@ -30,7 +30,7 @@
   "devDependencies": {
     "@aussiegeek/eslint-config-react": "0.1.0",
     "@testing-library/jest-dom": "5.12.0",
-    "@testing-library/react": "11.2.6",
+    "@testing-library/react": "11.2.7",
     "@types/jest": "26.0.23",
     "@typescript-eslint/eslint-plugin": "4.23.0",
     "@typescript-eslint/parser": "4.23.0",
