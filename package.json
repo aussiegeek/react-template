@@ -31,7 +31,7 @@
     "@aussiegeek/eslint-config-react": "0.1.0",
     "@testing-library/jest-dom": "5.14.1",
     "@testing-library/react": "11.2.7",
-    "@types/jest": "26.0.23",
+    "@types/jest": "26.0.24",
     "@typescript-eslint/eslint-plugin": "4.28.1",
     "@typescript-eslint/parser": "4.28.1",
     "eslint": "7.29.0",
